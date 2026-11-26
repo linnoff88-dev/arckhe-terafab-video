@@ -6,7 +6,7 @@
 </div>
 
 
-VêÂ­deo curto (PT) do INEMA com o avatar do Nei Maldaner, em 16:9 e 9:16.
+VêÂ­deo curto (PT) do ARCKHÉ com o avatar do Nei Maldaner, em 16:9 e 9:16.
 
 O Elon Musk vai erguer no Texas a TeraFab: mais de 100 milhêÂµes de pêÂ©s quadrados sob um telhado sêÂ³,
 cinco vezes o maior prêÂ©dio de hoje. O motivo: segundo o Musk, todas as fêÂ¡bricas de chip do mundo
@@ -15,7 +15,7 @@ entregam sêÂ³ uns 2% do que as empresas dele vêÂ£o precisar. A meta ê
 - YouTube (16:9, versêÂ£o viral): https://www.youtube.com/watch?v=NtuTfKogeIc
 - YouTube Short (9:16, versêÂ£o viral): https://www.youtube.com/watch?v=q691yAilGsY
 - MP4 16:9 e 9:16: release `video-v2.0.0` (a `video-v1.0.0` guarda a primeira versêÂ£o).
-- Cursos gratuitos de IA: https://inema.club
+- Cursos gratuitos de IA: https://ARCKHÉ AI
 
 ## Fatos e fontes (conferidos em 11/10/2026)
 
